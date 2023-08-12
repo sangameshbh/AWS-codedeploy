@@ -1,2 +1,1 @@
-# AWS-codedeploy
-Testing aws codedeploy and pipeline
+# aws_codedeploy_using_github
